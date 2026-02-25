@@ -139,7 +139,7 @@ These KPIs were calculated to quantify operational efficiency, profitability, an
 
 ### Report Snapshot (Power BI DESKTOP)
 
-![Dashboard_upload]()
+![Dashboard_upload](https://github.com/rahulgowda2003/Urban-Threads-Q4-Order-Return-Rate-Analysis/blob/main/Urban%20Threads%20Q4%20Orders%20%26%20Return%20Analysis%20Dashboard%20Screenshot.png)
 
 
 The dashboard was built not for decoration, but to answer specific business questions raised
